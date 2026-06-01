@@ -1,5 +1,10 @@
 # QBM — Quantum BareMetal VM
 
+[![Release](https://img.shields.io/github/v/release/qbmcreator/qbm?color=blue)](https://github.com/qbmcreator/qbm/releases)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/status-active-brightgreen)]()
+
 > **QBM fait une chose, une seule : rendre la confiance vérifiable.**
 
 ---
